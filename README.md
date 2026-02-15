@@ -1,4 +1,4 @@
-## <p align="center">👋 Hey, Im Hong Cheng</p>
+# <p align="center">👋 Hey, Im Hong Cheng</p>
 <p align="center">First year undergraduate student studying Computer Science at NYU.</p>
 
 ## Socials
