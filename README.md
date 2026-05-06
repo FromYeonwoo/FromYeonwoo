@@ -1,5 +1,7 @@
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
+Still figuring out what i'm trying to do. Experimenty wacky stuff will be posted here.
+
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hong-cheng-wang/) 
 
