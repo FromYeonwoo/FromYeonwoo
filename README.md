@@ -1,15 +1,12 @@
 # <p align="center">👋 Hey, Im Hong Cheng</p>
 
-Still figuring out what i'm trying to do. Experimenty wacky stuff will be posted here.
+Contemporary TypeScript Practioner.
 
 ## socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hong-cheng-wang/) 
 
 ## tech stack 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge) 
-
-# stats:
-![](https://github-readme-stats.shion.dev/api?username=hongchengw&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
