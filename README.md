@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://images.unsplash.com/photo-1693786143521-b10f9f869638?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Master Head" />
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQHxbVWcdhsmqg/profile-displaybackgroundimage-shrink_200_800/B4EZ4Jsj5CIMAU-/0/1778279153730?e=1781136000&v=beta&t=0hVEX6efZZxeKzI5laMStSjmHLyFRR9OItp6nVI4Vwk" alt="Master Head" />
 </p>
 
 # <p align="center">👋 Hey, Im Hong Cheng</p>
